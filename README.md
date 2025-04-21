@@ -3,4 +3,5 @@
 
 
 
+![1011 overlapping sequence detector state diagram](https://github.com/user-attachments/assets/0ca78b9b-bea4-4d1d-8145-e91528574906)
 
